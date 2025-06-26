@@ -1,8 +1,4 @@
 mountpoints:
   /:
-    url: https://content.da.live/AdobeDevXSC/da-citisignal/
+    url: https://content.da.live/michael-smith-adobe/da-citisignal/
     type: markup
-
-folders:
-  /products/plan/: /products/plan/default
-  /products/: /products/default
